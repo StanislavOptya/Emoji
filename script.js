@@ -11,7 +11,6 @@ let getJsonFile = (pathToFile) => {
   nahod (allEmoji);
 
 function nahod (massiv){
-  pos.innerHTML = "";
   let str = "";
   for(let i = 0; i < massiv.length; i++){
     str +=
